@@ -23,4 +23,4 @@ The Company may use Personal Data for the following purposes:
   <li>To contact You**: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation</li>
   <li>To manage Your requests: To attend and manage Your requests to Us.</li>
 </ul>
-<img src="[](https://user-images.githubusercontent.com/94127804/209241496-d39f6b45-ec28-4cec-b63f-d77c401e42da.png)" width="48">
+[<img src="https://github.com/keyking9988/ProjectK/blob/main/splash_modified2.png">]
