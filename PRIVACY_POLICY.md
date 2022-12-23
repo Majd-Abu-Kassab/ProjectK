@@ -23,4 +23,18 @@ The Company may use Personal Data for the following purposes:
   <li>To contact You**: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation</li>
   <li>To manage Your requests: To attend and manage Your requests to Us.</li>
 </ul>
-[<img src="https://github.com/keyking9988/ProjectK/blob/main/splash_modified2.png">]
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+
+<img align="left" src="https://github.com/keyking9988/ProjectK/blob/main/splash_modified2.png" width="150" height="150"/>
+<br>
+Majd Abo Kassab<br>
+President at ProjectK.<br>
+Email: app.ProjectK@gmail.com<br> 
+Amman, Jordan<br>
+ 
+
+
+
+ 
+
